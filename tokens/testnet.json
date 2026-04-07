@@ -241,6 +241,14 @@
       "description": "",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/VEX.png"
     },
+   {
+      "id": "a1461d7dea67e8fab247b5f7b0ad9777da8a2aa39ae5893f15d29027e1969a00",
+      "name": "DOH",
+      "symbol": "DOH",
+      "decimals": 18,
+      "description": "Decentralized Open Hub - Test",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOH.png"
+    },
     {
       "id": "3f61717a9fbfd5871b84b96ef4a9b89f334da773fdc6aedcbdeb2d57fe80c500",
       "name": "FakeUSD",
